@@ -1,5 +1,5 @@
 <div id="topgif" align="center">
-	<img src="https://giphy.com/embed/XGz6o7pFxnJeHlPVKh" width="480" height="270" />
+	<img src="https://media.giphy.com/media/XGz6o7pFxnJeHlPVKh/giphy-downsized.gif" width="480" height="270"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/alex-alyoshkin/">
